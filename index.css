@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: major mono display;
+  font-size: 32px;
+  margin-top: 10px;
+}
+
+h2 {
+	font-family: major mono display;
+	font-size: 18px;
+	margin-top: -10px;
+}
+
+p {
+  font-family: courier prime;
+  font-size: 15px;
+  margin-top: 3em;
+}
+
+a:link {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+.back {
+	position: fixed;
+	bottom: 20px;
+}
