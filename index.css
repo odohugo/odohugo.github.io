@@ -57,7 +57,7 @@ iframe {
 	width: 45%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
 	h1 {
   	font-family: major mono display;
  	font-size: 56px;
