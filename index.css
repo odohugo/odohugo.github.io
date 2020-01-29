@@ -52,3 +52,29 @@ iframe {
 	position: fixed;
 	bottom: 20px;
 }
+
+@media (max-width: 600px) {
+	h1 {
+  font-family: major mono display;
+  font-size: 46px;
+  margin-top: 10px;
+	}
+	
+	h2 {
+	font-family: major mono display;
+	font-size: 28px;
+	margin-top: -10px;
+	}
+	
+	p {
+	font-family: courier prime;
+	font-size: 20px;
+	margin-top: 3em;
+	}
+	
+	.back {
+	position: fixed;
+	bottom: 30px;
+	font-size: 20
+	}
+}
