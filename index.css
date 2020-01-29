@@ -53,10 +53,14 @@ iframe {
 	bottom: 20px;
 }
 
+.bio {
+	width: 45%;
+}
+
 @media (max-width: 1025px) {
 	h1 {
   	font-family: major mono display;
- 	 font-size: 56px;
+ 	font-size: 56px;
   	margin-top: 10px;
 	}
 	
