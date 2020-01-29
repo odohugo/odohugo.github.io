@@ -57,7 +57,7 @@ iframe {
 	width: 45%;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1025px) {
 	h1 {
   	font-family: major mono display;
  	font-size: 56px;
@@ -68,6 +68,13 @@ iframe {
 	font-family: major mono display;
 	font-size: 32px;
 	margin-top: -10px;
+	}
+	
+	p {
+	font-family: courier prime;
+	font-size: 22px;
+	margin-top: 3em;
+	width: 100;
 	}
 	
 	.back {
