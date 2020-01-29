@@ -57,7 +57,7 @@ iframe {
 	width: 45%;
 }
 
-@media (max-width: 1025px) {
+@media (max-width: 800px) {
 	h1 {
   	font-family: major mono display;
  	font-size: 56px;
@@ -70,12 +70,6 @@ iframe {
 	margin-top: -10px;
 	}
 	
-	p {
-	font-family: courier prime;
-	font-size: 26px;
-	margin-top: 3em;
-	}
-	
 	.back {
 	position: fixed;
 	bottom: 40px;
@@ -83,5 +77,6 @@ iframe {
 	}
 	
 	.bio {
+	width: 100%;
 	}
 }
