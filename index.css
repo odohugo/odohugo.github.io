@@ -54,7 +54,13 @@ iframe {
 }
 
 .bio {
-	width: 45%;
+	width: 35%;
+	font-size: 15px;
+}
+
+.cv {
+	font-size: 12px;
+	margin-top: 5em;
 }
 
 @media (max-width: 1025px) {
